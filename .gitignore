@@ -1,1 +1,8 @@
 .freebuff
+
+node_modules/
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+.env*.local
